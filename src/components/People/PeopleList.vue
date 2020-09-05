@@ -17,9 +17,6 @@
         >SHUFFLE <a-icon type="sync"
       /></a-button>
     </a-button-group>
-    <div style="background: #42b983;border-radius: 50%;width: 100px">
-      <h1>hello world</h1>
-    </div>
 
     <div class="list_container">
       <FLIPWrapper>
